@@ -1,1 +1,3 @@
-Hello! Welcome to GitPractice
+Hello! Welcome to GitPractice.
+I am Madhushree.Learning about Git and GitHub.
+Thank you.
